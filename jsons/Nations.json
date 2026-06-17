@@ -5,8 +5,9 @@
 		"adjective": ["The Minoans"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Snake_Goddess_Laws",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "The lilies and the bliss wash over you oh priestesses, your people have some offerings, your goddess said, this is a proud kingdom of traders and artisans centred on the island of Crete, away from the petty and bloody squabbles of the main Lander around you. In this perpetual Mediterranean bliss and Peace your people blossomed, becoming the most culturally and technologically advanced empire of the age. The tales of your prosperity spread across the isles of the Aegean through your many trade routes and yet somehow you priestesses remain forgotten in the palaces.",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
@@ -32,7 +33,7 @@
 		"outerColor": [55, 0, 101],
 		"innerColor": [246, 216, 1],
 		"favoredReligion": "Eastern Orthodoxy",
-		"uniqueName": "The Pentarchy and 7 Ecumenical Councils.", 
+		"uniqueName": "Prince Of The Lilies.", 
 		"uniqueText": ".",
 		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [enhancing] a religion", "<in [Holy] cities> Religion naturally spreads to cities [30] tiles away <after founding a Religion>"],
 		"cities": ["Constantinople", "Rome", "Alexandria", "Jerusalem", "Antioch", "Adrianople", "Nicaea", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
