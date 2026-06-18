@@ -34,6 +34,6 @@
 		"maintenance": 2,
 		"percentStatBonus": {"gold": 20},
 		"uniques": ["[+6 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
-		"requiredTech": "Masonry"
+		"requiredTech": "Masonry", 
 	}
 ]
