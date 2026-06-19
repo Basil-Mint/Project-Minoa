@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Project-Minoa
 
-An example mod for Unciv, that adds one new Civilization.
+Add The Minoans Civ To Unciv.
 
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
