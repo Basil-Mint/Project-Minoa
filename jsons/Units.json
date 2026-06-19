@@ -1,6 +1,18 @@
 [
 	{
-		
+		"name": "Bull-Leaper",
+		"unitType": "Civilian",
+		"uniqueTo": "Minoa",
+		"replaces": "Inquisitor",
+		"movement": 3,
+		"cost": 180,
+		"requiredTech": "Animal Husbandry",
+		"requiredResource": "Cattle",
+		"uniques": ["Prevents spreading of religion to the city it is next to", "Can generate a large amount of culture <upon ending a turn in a [City Center] tile>", 
+			"Can remove other religions from cities <in [Friendly] tiles> <[5] times> <after which this unit is consumed>",
+            "Can be purchased for [300] [Faith] [in cities following our religion]", "Can only be built <in cities with a [Anaktora]>", 
+			"Only available <after founding a religion>", "[+3] Sight", "Consumes [1] [Cattle]", "Unbuildable <starting from the [Medieval era]>", 
+			"Only available <when religion is enabled>", "Unavailable <starting from the [Renaissance era]>", "Religious Unit",
 	}, 
 	{
 		"name": "Kapte Galleys",
