@@ -34,7 +34,7 @@
 		"maintenance": 2,
 		"percentStatBonus": {"gold": 20},
 		"uniques": ["[+6 Culture] [in this city] <after discovering [Archaeology]>", "Limited to [6] per Civilization", 
-			"Requires at least [5] population <in this city>", "Destroyed when the city is captured"],
+			"Requires at least [5] population <in this city>", "Destroyed when the city is captured"]
 		"requiredTech": "Masonry", 
 	}
 ]
