@@ -10,7 +10,7 @@
 		"startIntroPart1": "The lilies and the bliss wash over you oh Priestesses, your people have some offerings, your Goddess said, this is a proud kingdom of traders and artisans centred on the island of Crete, away from the petty and bloody squabbles of the main Lander around you. In this perpetual Mediterranean bliss and Peace your people blossomed, becoming the most culturally and technologically advanced empire of the age. The tales of your prosperity spread across the isles of the Aegean through your many trade routes and yet somehow you priestesses remain forgotten in the palaces.",
 		"startIntroPart2": "Oh Priestesses, The Minoan empire has long since fallen, your Goddess is gone, yet men continue to sing tales of glory to which your kingdom was the setting without singing also your names. It is time to raise that kingdom anew and reclaim your names! Will you spur your merchants and civilians to rebuild their ships and palaces, reclaiming Crete? Will your palaces and pottery once again be the envy of all the nations around you? Will you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "You have disrespected the sacred grounds in our palaces! the snakes, the curses, and your head shall be severed and be eaten.",
+		"declaringWar": "You have disrespected the sacred grounds in our palaces! the snakes, the curses, and your head, shall be severed and be eaten.",
 		"attacked": "War? Huh, be careful for what you wished for. Minoans are not as merciful as we seems to be, you know.",
 		"defeated": "Oh, Mother Goddess, How could you let us stumble. Hear our Weeping, oh, Snake Goddess, Please do not let Minoa fall!",
 		"introduction": "We here by the permission and blessings of the Snake Goddess, and I as Chief Priestess of all Minoa, welcomes you to the palace of Knossos. Ladies prepare a banquet!",
@@ -22,13 +22,13 @@
 
 		"hateHello": "Greetings, The chief priestess is very busy, I shall entertain you instead.",
 		"hateLetsHearIt": ["...","...","..."],
-		"hateNo": ["No, is there anything else?","Maybe... Never.","Is our meeting today, a joke to you?"],
+		"hateNo": ["No, is there anything else?","Maybe... Never.","Is our meeting today, a jest to you?"],
 		"hateYes": ["Of course...","Agreed...","Very well..."],
 		
-		"afterPeace": "Really? Sure, It's just a shame that the Snake Goddess doesn't have the chance to taste your soul.",
+		"afterPeace": "Really? Sure, It's just a shame that the Snake Goddess doesn't have the chance to taste your soul and skull.",
 		"tradeRequest": "Olive oil, pottery, fishes, and what ever you desire, we have. I've also heard the things that you have and would you kindly enlighten us about it.",
-		"denounced": "We did not know what accusations you're pointing at. but hear this the curses will fall, no matter what you say.",
-		"declaringfriendship": "The Mother Goddess is very pleased with you and your people, so is The Snake Goddess. Please is we may, let both of our people live in Harmony.",
+		"denounced": "We did not know what accusations you're pointing at. but hear this, the curses will fall, no matter what your mouth is spewing out.",
+		"declaringfriendship": "The Mother Goddess is very pleased with you and your people, so is The Snake Goddess. Please, if we may, let both of our people live as companions.",
 
 		"outerColor": [239, 227, 175],
 		"innerColor": [0, 148, 210],
