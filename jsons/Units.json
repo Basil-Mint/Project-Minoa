@@ -26,7 +26,7 @@
 		"uniques": ["Cannot enter ocean tiles", "[+1] Sight", "May create improvements on water resources <[3] times> <for all movement>", "May heal outside of friendly territory", "Withdraws before melee combat <with [50]% chance>",
 			"[Great Merchant] is earned [+35]% faster <in [Coastal] cities> <for [7] turns> <upon entering a [City-State] tile> <in tiles adjacent to [City Center] tiles>", "[+45]% Gold from Great Merchant trade missions", 
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence <[3] times> <if [Harbor] is constructed> <in [City-State] cities>", 
-			"Unbuildable <starting from the [Medieval era]>", "Automation is a primary action"],
+			"Requires at least [3] population <in this city>", "Unbuildable <starting from the [Medieval era]>", "Automation is a primary action"],
 		"upgradesTo": "Galleass",
 		"attackSound": "nonmetalhit",
 	}
