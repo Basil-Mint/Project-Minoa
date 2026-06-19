@@ -3,7 +3,7 @@
 		"name": "Minoa",
 		"leaderName": "Snake Goddess Priestesses",
 		"adjective": ["Minoan"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast", "Avoid [Desert]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Snake_Goddess_Laws",
 		
